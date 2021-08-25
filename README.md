@@ -1,5 +1,7 @@
 # SimECG dataset
 
+![](https://github.com/Prasanna1991/SimECG/blob/master/schematic.png?raw=true)
+
 Please download the dataset from this [link](https://drive.google.com/drive/folders/1OTQjuj1IGABgQHeSfSNOaB67myXzbyJK?usp=sharing) and save them in the corresponding folder.
 
 ## SimECG:
