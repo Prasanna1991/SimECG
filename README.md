@@ -43,7 +43,7 @@ Along with the dataset, we are providing some sample scripts to load them. These
 
 If you find this dataset useful, please cite it as follows:
 
-##$ Bibtex (will be updated soon)
+### Bibtex (will be updated soon)
 ```
 @inproceedings{gyawali2021learning,
   title={Learning to Disentangle Inter-subject Anatomical Variations in Electrocardiographic Data},
