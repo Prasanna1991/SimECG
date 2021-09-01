@@ -1,6 +1,6 @@
 # SimECG dataset
 
-SimECG dataset is the 12-lead ECG data set with a controlled set of generative factors involving the geometry of the heart and torso. The original paper will be available soon [paper](https://github.com/Prasanna1991/SimECG).
+SimECG dataset is the 12-lead ECG data set with a controlled set of generative factors involving the geometry of the heart and torso. The original paper will be available soon [paper](https://ieeexplore.ieee.org/document/9525273).
 
 <p align="center">
   <img src="schematic.png" width="800"/>
